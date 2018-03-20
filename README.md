@@ -1,2 +1,0 @@
-# ourcode
-rajasthan codes
